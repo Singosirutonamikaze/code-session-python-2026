@@ -1,0 +1,501 @@
+﻿ID_Produit;Nom_Produit;Categorie;Sous_Categorie;Prix_Unitaire_ECO;Quantite_Stock;Score_Avis;Statut_Disponibilite;Date_Ajout
+PROD-1001;Poêle NovaLife v5;Maison & Cuisine;Poêle;31.26;250;3.8;En stock;2025-08-04
+PROD-1002;Parfum FitGear v1;Beauté & Santé;Parfum;755.77;55;4.2;En stock;2025-02-03
+PROD-1003;Aspirateur FitGear v3;Maison & Cuisine;Aspirateur;295.64;33;3.6;En stock;2025-06-21
+PROD-1004;Smartphone PrimeGoods v5;Électronique;Smartphone;668.29;163;4.3;En stock;2025-05-07
+PROD-1005;Aspirateur EcoHome v3;Maison & Cuisine;Aspirateur;17.16;89;4.3;En stock;2026-01-09
+PROD-1006;Smartphone PrimeGoods v4;Électronique;Smartphone;428.68;118;4.6;En stock;2025-02-02
+PROD-1007;Écouteurs AuraStyle v1;Électronique;Écouteurs;175.76;12;4.2;Stock faible;2025-10-05
+PROD-1008;Crème hydratante TechCorp v1;Beauté & Santé;Crème hydratante;283.16;127;3.6;En stock;2025-09-21
+PROD-1009;Jean FitGear v3;Mode & Vêtements;Jean;824.32;211;4.1;En stock;2026-04-01
+PROD-1010;Lampe de bureau EcoHome v5;Maison & Cuisine;Lampe de bureau;236.75;43;4.1;En stock;2025-03-04
+PROD-1011;Trousse de maquillage EcoHome v2;Beauté & Santé;Trousse de maquillage;323.26;165;3.7;En stock;2025-01-19
+PROD-1012;Haltères EcoHome v4;Sports & Loisirs;Haltères;676.49;232;3.6;En stock;2025-02-23
+PROD-1013;Robe AuraStyle v4;Mode & Vêtements;Robe;639.64;201;4.9;En stock;2026-02-23
+PROD-1014;Écouteurs AuraStyle v5;Électronique;Écouteurs;186.47;133;4.7;En stock;2025-08-29
+PROD-1015;Jean TechCorp v5;Mode & Vêtements;Jean;651.24;236;3.6;En stock;2026-03-30
+PROD-1016;Veste AuraStyle v5;Mode & Vêtements;Veste;530.11;230;3.9;En stock;2025-04-15
+PROD-1017;Tapis de course NovaLife v5;Sports & Loisirs;Tapis de course;242.73;158;4.9;En stock;2025-10-26
+PROD-1018;Crème hydratante TechCorp v4;Beauté & Santé;Crème hydratante;310.88;236;4.0;En stock;2026-01-24
+PROD-1019;Veste FitGear v1;Mode & Vêtements;Veste;639.43;84;4.9;En stock;2025-09-17
+PROD-1020;Robe EcoHome v1;Mode & Vêtements;Robe;11.72;44;4.8;En stock;2025-03-09
+PROD-1021;Machine à café TechCorp v1;Maison & Cuisine;Machine à café;232.87;77;3.5;En stock;2026-01-13
+PROD-1022;Montre connectée TechCorp v2;Électronique;Montre connectée;534.48;143;3.9;En stock;2025-05-26
+PROD-1023;T-shirt AuraStyle v1;Mode & Vêtements;T-shirt;70.47;143;3.8;En stock;2025-06-17
+PROD-1024;Jean AuraStyle v1;Mode & Vêtements;Jean;728.89;37;4.1;En stock;2026-01-30
+PROD-1025;Vélo de ville EcoHome v4;Sports & Loisirs;Vélo de ville;11.22;15;3.6;Stock faible;2025-11-09
+PROD-1026;Machine à café AuraStyle v5;Maison & Cuisine;Machine à café;700.69;54;4.0;En stock;2025-02-20
+PROD-1027;Veste EcoHome v4;Mode & Vêtements;Veste;753.6;11;3.9;Stock faible;2025-08-19
+PROD-1028;Veste AuraStyle v2;Mode & Vêtements;Veste;883.36;149;4.8;En stock;2025-05-21
+PROD-1029;Machine à café PrimeGoods v5;Maison & Cuisine;Machine à café;607.51;134;3.7;En stock;2026-01-08
+PROD-1030;Vélo de ville AuraStyle v3;Sports & Loisirs;Vélo de ville;71.53;62;4.8;En stock;2025-05-07
+PROD-1031;Trousse de maquillage NovaLife v2;Beauté & Santé;Trousse de maquillage;794.08;94;4.2;En stock;2025-10-04
+PROD-1032;Parfum NovaLife v1;Beauté & Santé;Parfum;650.73;85;4.6;En stock;2025-09-30
+PROD-1033;Montre connectée AuraStyle v3;Électronique;Montre connectée;353.6;219;3.6;En stock;2025-05-03
+PROD-1034;Écouteurs PrimeGoods v4;Électronique;Écouteurs;346.33;56;4.0;En stock;2026-05-03
+PROD-1035;Baskets EcoHome v2;Mode & Vêtements;Baskets;875.61;60;3.9;En stock;2025-08-23
+PROD-1036;Poêle TechCorp v3;Maison & Cuisine;Poêle;894.95;203;4.1;En stock;2025-12-22
+PROD-1037;Sèche-cheveux TechCorp v2;Beauté & Santé;Sèche-cheveux;31.18;159;4.8;En stock;2025-09-17
+PROD-1038;Jean NovaLife v4;Mode & Vêtements;Jean;824.35;166;4.7;En stock;2025-03-21
+PROD-1039;T-shirt PrimeGoods v1;Mode & Vêtements;T-shirt;558.25;77;3.8;En stock;2026-02-03
+PROD-1040;Sac à dos AuraStyle v1;Sports & Loisirs;Sac à dos;570.12;250;3.7;En stock;2025-02-07
+PROD-1041;Haltères TechCorp v1;Sports & Loisirs;Haltères;383.05;47;4.4;En stock;2025-05-31
+PROD-1042;Machine à café EcoHome v2;Maison & Cuisine;Machine à café;646.57;144;4.1;En stock;2025-06-17
+PROD-1043;Brosse à dents électrique AuraStyle v1;Beauté & Santé;Brosse à dents électrique;657.88;206;4.7;En stock;2025-09-11
+PROD-1044;Haltères FitGear v3;Sports & Loisirs;Haltères;50.31;92;4.8;En stock;2025-02-04
+PROD-1045;Tablette EcoHome v2;Électronique;Tablette;245.75;138;4.4;En stock;2025-09-07
+PROD-1046;Gourde FitGear v4;Sports & Loisirs;Gourde;127.37;97;4.4;En stock;2025-05-04
+PROD-1047;Machine à café TechCorp v2;Maison & Cuisine;Machine à café;427.05;175;3.6;En stock;2025-05-03
+PROD-1048;Mélangeur PrimeGoods v1;Maison & Cuisine;Mélangeur;463.73;143;3.7;En stock;2026-05-05
+PROD-1049;Baskets PrimeGoods v1;Mode & Vêtements;Baskets;26.32;84;3.8;En stock;2026-04-16
+PROD-1050;Machine à café AuraStyle v2;Maison & Cuisine;Machine à café;379.28;131;4.2;En stock;2025-01-03
+PROD-1051;Machine à café PrimeGoods v5;Maison & Cuisine;Machine à café;17.8;208;3.5;En stock;2025-08-26
+PROD-1052;Sac à dos FitGear v4;Sports & Loisirs;Sac à dos;622.0;220;4.8;En stock;2026-01-24
+PROD-1053;Veste AuraStyle v4;Mode & Vêtements;Veste;337.06;202;3.8;En stock;2026-01-09
+PROD-1054;T-shirt PrimeGoods v5;Mode & Vêtements;T-shirt;270.94;209;4.1;En stock;2025-04-06
+PROD-1055;Mélangeur AuraStyle v1;Maison & Cuisine;Mélangeur;835.73;36;3.8;En stock;2025-01-06
+PROD-1056;Parfum AuraStyle v4;Beauté & Santé;Parfum;856.87;89;4.7;En stock;2025-11-25
+PROD-1057;T-shirt TechCorp v5;Mode & Vêtements;T-shirt;185.04;228;3.9;En stock;2026-03-09
+PROD-1058;Crème hydratante FitGear v2;Beauté & Santé;Crème hydratante;516.82;213;4.4;En stock;2025-08-03
+PROD-1059;Parfum FitGear v4;Beauté & Santé;Parfum;796.49;101;5.0;En stock;2025-08-24
+PROD-1060;Ordinateur NovaLife v4;Électronique;Ordinateur;384.84;49;4.3;En stock;2025-01-25
+PROD-1061;Jean TechCorp v3;Mode & Vêtements;Jean;595.89;248;4.8;En stock;2025-12-10
+PROD-1062;Veste FitGear v1;Mode & Vêtements;Veste;897.03;234;4.6;En stock;2025-11-21
+PROD-1063;Crème hydratante PrimeGoods v3;Beauté & Santé;Crème hydratante;852.14;8;3.7;Stock faible;2025-07-13
+PROD-1064;Jean PrimeGoods v5;Mode & Vêtements;Jean;554.47;186;3.5;En stock;2025-12-01
+PROD-1065;Brosse à dents électrique FitGear v1;Beauté & Santé;Brosse à dents électrique;202.87;105;4.2;En stock;2026-02-19
+PROD-1066;Veste EcoHome v3;Mode & Vêtements;Veste;857.23;57;4.8;En stock;2025-10-17
+PROD-1067;Brosse à dents électrique AuraStyle v1;Beauté & Santé;Brosse à dents électrique;896.89;231;5.0;En stock;2026-02-08
+PROD-1068;Jean EcoHome v4;Mode & Vêtements;Jean;188.13;139;4.9;En stock;2025-11-25
+PROD-1069;Mélangeur AuraStyle v3;Maison & Cuisine;Mélangeur;106.03;13;4.4;Stock faible;2025-01-27
+PROD-1070;Sac à dos FitGear v3;Sports & Loisirs;Sac à dos;781.05;109;5.0;En stock;2026-04-23
+PROD-1071;Smartphone TechCorp v5;Électronique;Smartphone;65.7;168;3.6;En stock;2026-04-20
+PROD-1072;Parfum AuraStyle v4;Beauté & Santé;Parfum;168.09;83;4.7;En stock;2026-02-18
+PROD-1073;Jean FitGear v1;Mode & Vêtements;Jean;738.07;45;3.9;En stock;2025-02-14
+PROD-1074;Tapis de course TechCorp v3;Sports & Loisirs;Tapis de course;535.43;109;4.1;En stock;2025-08-04
+PROD-1075;Ordinateur AuraStyle v4;Électronique;Ordinateur;867.99;140;4.2;En stock;2025-10-11
+PROD-1076;Brosse à dents électrique FitGear v3;Beauté & Santé;Brosse à dents électrique;88.49;80;3.9;En stock;2025-09-02
+PROD-1077;Trousse de maquillage FitGear v3;Beauté & Santé;Trousse de maquillage;527.54;76;4.1;En stock;2025-08-11
+PROD-1078;Sac à dos TechCorp v5;Sports & Loisirs;Sac à dos;786.47;62;4.5;En stock;2026-03-06
+PROD-1079;Sac à dos NovaLife v1;Sports & Loisirs;Sac à dos;271.15;191;4.4;En stock;2025-11-30
+PROD-1080;Crème hydratante FitGear v3;Beauté & Santé;Crème hydratante;675.21;87;4.9;En stock;2025-01-05
+PROD-1081;Aspirateur FitGear v2;Maison & Cuisine;Aspirateur;49.84;81;3.8;En stock;2025-03-07
+PROD-1082;Poêle EcoHome v5;Maison & Cuisine;Poêle;872.99;194;4.9;En stock;2025-11-25
+PROD-1083;Brosse à dents électrique PrimeGoods v2;Beauté & Santé;Brosse à dents électrique;457.51;36;4.7;En stock;2026-04-21
+PROD-1084;Parfum NovaLife v1;Beauté & Santé;Parfum;864.97;49;4.2;En stock;2025-10-29
+PROD-1085;Vélo de ville EcoHome v4;Sports & Loisirs;Vélo de ville;291.52;247;4.9;En stock;2026-04-24
+PROD-1086;Jean FitGear v3;Mode & Vêtements;Jean;261.71;224;5.0;En stock;2025-07-11
+PROD-1087;Veste AuraStyle v2;Mode & Vêtements;Veste;173.36;232;4.7;En stock;2025-09-17
+PROD-1088;Crème hydratante NovaLife v3;Beauté & Santé;Crème hydratante;563.23;112;4.9;En stock;2025-09-12
+PROD-1089;Jean AuraStyle v5;Mode & Vêtements;Jean;332.69;234;4.7;En stock;2025-06-13
+PROD-1090;Sèche-cheveux PrimeGoods v4;Beauté & Santé;Sèche-cheveux;773.66;12;4.6;Stock faible;2025-07-26
+PROD-1091;Robe FitGear v5;Mode & Vêtements;Robe;145.41;147;4.7;En stock;2025-06-10
+PROD-1092;Aspirateur PrimeGoods v2;Maison & Cuisine;Aspirateur;540.26;235;4.3;En stock;2025-03-21
+PROD-1093;Trousse de maquillage NovaLife v5;Beauté & Santé;Trousse de maquillage;227.45;199;3.9;En stock;2025-08-03
+PROD-1094;Tablette AuraStyle v4;Électronique;Tablette;782.76;234;4.0;En stock;2025-03-15
+PROD-1095;Jean AuraStyle v1;Mode & Vêtements;Jean;836.65;143;4.1;En stock;2026-05-15
+PROD-1096;Machine à café TechCorp v3;Maison & Cuisine;Machine à café;568.34;177;4.8;En stock;2025-07-13
+PROD-1097;Machine à café EcoHome v2;Maison & Cuisine;Machine à café;271.21;202;3.6;En stock;2025-07-20
+PROD-1098;Baskets PrimeGoods v3;Mode & Vêtements;Baskets;256.15;136;4.0;En stock;2025-09-18
+PROD-1099;Crème hydratante PrimeGoods v5;Beauté & Santé;Crème hydratante;208.22;141;3.8;En stock;2026-04-22
+PROD-1100;Lampe de bureau EcoHome v2;Maison & Cuisine;Lampe de bureau;434.12;14;4.5;Stock faible;2026-02-01
+PROD-1101;Tapis de course TechCorp v4;Sports & Loisirs;Tapis de course;232.18;134;4.7;En stock;2026-04-11
+PROD-1102;Baskets TechCorp v4;Mode & Vêtements;Baskets;457.81;8;4.0;Stock faible;2025-11-21
+PROD-1103;Veste FitGear v2;Mode & Vêtements;Veste;371.7;184;4.2;En stock;2025-11-18
+PROD-1104;Tablette FitGear v3;Électronique;Tablette;571.38;53;4.0;En stock;2025-06-20
+PROD-1105;Machine à café TechCorp v4;Maison & Cuisine;Machine à café;207.06;111;4.2;En stock;2025-05-04
+PROD-1106;Baskets EcoHome v2;Mode & Vêtements;Baskets;778.3;68;4.4;En stock;2026-03-24
+PROD-1107;Haltères TechCorp v1;Sports & Loisirs;Haltères;836.21;163;4.9;En stock;2025-07-21
+PROD-1108;Haltères EcoHome v2;Sports & Loisirs;Haltères;798.63;154;4.2;En stock;2025-11-17
+PROD-1109;Sèche-cheveux AuraStyle v1;Beauté & Santé;Sèche-cheveux;100.57;243;5.0;En stock;2025-07-13
+PROD-1110;T-shirt TechCorp v3;Mode & Vêtements;T-shirt;537.45;230;4.7;En stock;2025-03-24
+PROD-1111;Sèche-cheveux TechCorp v2;Beauté & Santé;Sèche-cheveux;70.71;18;4.3;En stock;2026-01-19
+PROD-1112;Aspirateur TechCorp v1;Maison & Cuisine;Aspirateur;665.28;38;4.4;En stock;2026-03-12
+PROD-1113;Aspirateur PrimeGoods v1;Maison & Cuisine;Aspirateur;601.97;17;4.7;En stock;2025-03-10
+PROD-1114;Tapis de course NovaLife v3;Sports & Loisirs;Tapis de course;236.27;181;4.7;En stock;2025-09-14
+PROD-1115;Tapis de course FitGear v1;Sports & Loisirs;Tapis de course;857.67;237;3.6;En stock;2025-09-23
+PROD-1116;Gourde TechCorp v2;Sports & Loisirs;Gourde;179.74;154;3.8;En stock;2026-05-12
+PROD-1117;Lampe de bureau NovaLife v1;Maison & Cuisine;Lampe de bureau;738.13;95;3.6;En stock;2026-01-05
+PROD-1118;Brosse à dents électrique EcoHome v5;Beauté & Santé;Brosse à dents électrique;117.5;13;4.9;Stock faible;2025-05-15
+PROD-1119;Poêle NovaLife v5;Maison & Cuisine;Poêle;393.89;188;3.9;En stock;2025-09-19
+PROD-1120;Haltères EcoHome v3;Sports & Loisirs;Haltères;566.67;104;4.8;En stock;2025-07-19
+PROD-1121;Machine à café FitGear v2;Maison & Cuisine;Machine à café;454.73;137;4.4;En stock;2026-05-05
+PROD-1122;Parfum AuraStyle v3;Beauté & Santé;Parfum;817.27;47;4.9;En stock;2026-01-29
+PROD-1123;Lampe de bureau NovaLife v4;Maison & Cuisine;Lampe de bureau;399.54;62;5.0;En stock;2025-06-25
+PROD-1124;Vélo de ville TechCorp v4;Sports & Loisirs;Vélo de ville;80.94;203;4.2;En stock;2025-04-10
+PROD-1125;Écouteurs AuraStyle v5;Électronique;Écouteurs;159.08;186;3.5;En stock;2025-03-08
+PROD-1126;Robe NovaLife v3;Mode & Vêtements;Robe;639.86;222;3.5;En stock;2026-03-07
+PROD-1127;Robe NovaLife v4;Mode & Vêtements;Robe;731.65;85;4.0;En stock;2025-02-18
+PROD-1128;Tablette EcoHome v4;Électronique;Tablette;601.89;48;3.5;En stock;2025-02-08
+PROD-1129;Ordinateur EcoHome v5;Électronique;Ordinateur;896.05;241;4.3;En stock;2026-03-22
+PROD-1130;Sèche-cheveux AuraStyle v3;Beauté & Santé;Sèche-cheveux;392.83;245;4.6;En stock;2025-06-03
+PROD-1131;Baskets AuraStyle v4;Mode & Vêtements;Baskets;768.26;34;5.0;En stock;2025-05-03
+PROD-1132;Sèche-cheveux FitGear v3;Beauté & Santé;Sèche-cheveux;675.98;222;4.3;En stock;2025-03-15
+PROD-1133;Haltères AuraStyle v1;Sports & Loisirs;Haltères;554.04;223;3.8;En stock;2025-06-10
+PROD-1134;Mélangeur NovaLife v2;Maison & Cuisine;Mélangeur;771.69;220;4.2;En stock;2025-09-05
+PROD-1135;Vélo de ville EcoHome v2;Sports & Loisirs;Vélo de ville;714.13;230;4.6;En stock;2025-09-20
+PROD-1136;Parfum TechCorp v2;Beauté & Santé;Parfum;892.12;63;4.9;En stock;2025-03-25
+PROD-1137;T-shirt NovaLife v5;Mode & Vêtements;T-shirt;114.16;235;3.5;En stock;2026-04-22
+PROD-1138;Robe TechCorp v1;Mode & Vêtements;Robe;416.22;67;4.3;En stock;2026-02-15
+PROD-1139;Ordinateur PrimeGoods v2;Électronique;Ordinateur;481.92;31;4.0;En stock;2025-03-08
+PROD-1140;Veste TechCorp v3;Mode & Vêtements;Veste;99.34;31;4.9;En stock;2025-02-05
+PROD-1141;Ordinateur TechCorp v4;Électronique;Ordinateur;65.17;16;3.7;En stock;2025-03-28
+PROD-1142;Sèche-cheveux NovaLife v4;Beauté & Santé;Sèche-cheveux;486.34;108;4.2;En stock;2026-02-09
+PROD-1143;Sac à dos FitGear v2;Sports & Loisirs;Sac à dos;562.05;81;4.7;En stock;2025-04-03
+PROD-1144;Ordinateur NovaLife v1;Électronique;Ordinateur;171.48;122;3.6;En stock;2025-09-27
+PROD-1145;Lampe de bureau PrimeGoods v5;Maison & Cuisine;Lampe de bureau;784.17;152;3.6;En stock;2025-02-06
+PROD-1146;Tablette AuraStyle v1;Électronique;Tablette;248.39;43;4.1;En stock;2025-12-16
+PROD-1147;Jean NovaLife v5;Mode & Vêtements;Jean;241.9;187;4.0;En stock;2025-05-10
+PROD-1148;Ordinateur TechCorp v2;Électronique;Ordinateur;883.01;14;4.4;Stock faible;2025-12-30
+PROD-1149;Écouteurs FitGear v1;Électronique;Écouteurs;412.11;196;3.7;En stock;2026-01-15
+PROD-1150;Gourde PrimeGoods v5;Sports & Loisirs;Gourde;825.28;114;3.5;En stock;2025-10-26
+PROD-1151;Lampe de bureau TechCorp v5;Maison & Cuisine;Lampe de bureau;159.37;97;4.2;En stock;2026-05-11
+PROD-1152;Smartphone EcoHome v3;Électronique;Smartphone;712.09;142;4.3;En stock;2025-04-12
+PROD-1153;Tablette TechCorp v3;Électronique;Tablette;343.58;143;4.8;En stock;2025-06-15
+PROD-1154;Baskets NovaLife v1;Mode & Vêtements;Baskets;568.51;53;3.8;En stock;2025-12-12
+PROD-1155;Veste FitGear v2;Mode & Vêtements;Veste;893.93;198;4.8;En stock;2026-03-12
+PROD-1156;Aspirateur TechCorp v2;Maison & Cuisine;Aspirateur;227.16;100;4.3;En stock;2025-09-27
+PROD-1157;Trousse de maquillage PrimeGoods v1;Beauté & Santé;Trousse de maquillage;13.44;37;4.0;En stock;2026-01-28
+PROD-1158;Poêle NovaLife v4;Maison & Cuisine;Poêle;682.7;71;4.8;En stock;2025-03-09
+PROD-1159;Brosse à dents électrique AuraStyle v1;Beauté & Santé;Brosse à dents électrique;95.72;29;4.0;En stock;2025-10-21
+PROD-1160;Tapis de course TechCorp v1;Sports & Loisirs;Tapis de course;364.78;55;3.6;En stock;2025-02-13
+PROD-1161;Machine à café AuraStyle v4;Maison & Cuisine;Machine à café;433.99;169;3.6;En stock;2025-07-17
+PROD-1162;Lampe de bureau TechCorp v3;Maison & Cuisine;Lampe de bureau;322.73;38;4.4;En stock;2025-03-10
+PROD-1163;Sèche-cheveux FitGear v3;Beauté & Santé;Sèche-cheveux;749.16;156;4.7;En stock;2025-07-28
+PROD-1164;Montre connectée PrimeGoods v5;Électronique;Montre connectée;433.26;7;4.0;Stock faible;2025-02-16
+PROD-1165;Machine à café PrimeGoods v1;Maison & Cuisine;Machine à café;318.92;165;3.6;En stock;2026-02-07
+PROD-1166;Jean AuraStyle v5;Mode & Vêtements;Jean;70.24;90;3.7;En stock;2025-01-02
+PROD-1167;T-shirt PrimeGoods v2;Mode & Vêtements;T-shirt;206.47;149;3.6;En stock;2025-09-23
+PROD-1168;Sèche-cheveux NovaLife v4;Beauté & Santé;Sèche-cheveux;295.05;147;4.2;En stock;2025-10-08
+PROD-1169;Sèche-cheveux EcoHome v3;Beauté & Santé;Sèche-cheveux;367.14;229;4.8;En stock;2025-04-05
+PROD-1170;Ordinateur PrimeGoods v4;Électronique;Ordinateur;588.08;48;3.9;En stock;2025-07-09
+PROD-1171;Smartphone AuraStyle v5;Électronique;Smartphone;748.83;61;4.2;En stock;2025-09-25
+PROD-1172;Mélangeur PrimeGoods v4;Maison & Cuisine;Mélangeur;395.68;172;4.6;En stock;2025-11-07
+PROD-1173;Ordinateur NovaLife v1;Électronique;Ordinateur;403.92;34;4.1;En stock;2025-02-16
+PROD-1174;Tapis de course NovaLife v1;Sports & Loisirs;Tapis de course;77.63;185;3.6;En stock;2025-02-02
+PROD-1175;Lampe de bureau NovaLife v3;Maison & Cuisine;Lampe de bureau;572.3;242;3.9;En stock;2025-01-22
+PROD-1176;Brosse à dents électrique EcoHome v4;Beauté & Santé;Brosse à dents électrique;118.34;177;3.7;En stock;2025-09-16
+PROD-1177;Vélo de ville EcoHome v2;Sports & Loisirs;Vélo de ville;856.22;26;4.1;En stock;2026-01-26
+PROD-1178;Écouteurs EcoHome v3;Électronique;Écouteurs;842.05;232;4.5;En stock;2026-05-04
+PROD-1179;T-shirt AuraStyle v3;Mode & Vêtements;T-shirt;566.53;202;3.7;En stock;2025-08-20
+PROD-1180;Smartphone PrimeGoods v5;Électronique;Smartphone;201.42;13;4.4;Stock faible;2025-04-18
+PROD-1181;Brosse à dents électrique EcoHome v5;Beauté & Santé;Brosse à dents électrique;658.55;86;4.8;En stock;2025-05-25
+PROD-1182;Aspirateur EcoHome v1;Maison & Cuisine;Aspirateur;546.13;94;3.7;En stock;2025-08-17
+PROD-1183;Poêle EcoHome v5;Maison & Cuisine;Poêle;613.22;169;4.4;En stock;2025-01-17
+PROD-1184;Brosse à dents électrique NovaLife v4;Beauté & Santé;Brosse à dents électrique;84.42;87;4.2;En stock;2025-06-12
+PROD-1185;Trousse de maquillage FitGear v2;Beauté & Santé;Trousse de maquillage;385.87;190;4.7;En stock;2025-03-22
+PROD-1186;Mélangeur AuraStyle v3;Maison & Cuisine;Mélangeur;688.43;182;4.2;En stock;2025-12-23
+PROD-1187;Jean TechCorp v2;Mode & Vêtements;Jean;57.47;104;4.2;En stock;2025-10-21
+PROD-1188;Brosse à dents électrique FitGear v1;Beauté & Santé;Brosse à dents électrique;225.16;200;4.2;En stock;2025-01-01
+PROD-1189;Mélangeur FitGear v1;Maison & Cuisine;Mélangeur;66.06;154;4.7;En stock;2026-04-17
+PROD-1190;Smartphone PrimeGoods v2;Électronique;Smartphone;424.7;112;4.5;En stock;2025-11-01
+PROD-1191;Tapis de course FitGear v5;Sports & Loisirs;Tapis de course;642.05;9;3.7;Stock faible;2025-12-23
+PROD-1192;T-shirt AuraStyle v4;Mode & Vêtements;T-shirt;551.12;240;4.7;En stock;2025-10-23
+PROD-1193;Vélo de ville NovaLife v4;Sports & Loisirs;Vélo de ville;505.61;32;4.1;En stock;2025-08-10
+PROD-1194;Aspirateur PrimeGoods v5;Maison & Cuisine;Aspirateur;303.87;214;4.8;En stock;2025-04-22
+PROD-1195;Sèche-cheveux EcoHome v4;Beauté & Santé;Sèche-cheveux;409.76;53;4.6;En stock;2025-01-22
+PROD-1196;Sèche-cheveux AuraStyle v5;Beauté & Santé;Sèche-cheveux;447.99;23;4.7;En stock;2025-05-29
+PROD-1197;Jean AuraStyle v1;Mode & Vêtements;Jean;212.6;72;4.9;En stock;2025-02-26
+PROD-1198;Smartphone FitGear v2;Électronique;Smartphone;325.63;81;4.4;En stock;2026-02-08
+PROD-1199;Veste AuraStyle v4;Mode & Vêtements;Veste;246.21;237;4.7;En stock;2025-07-25
+PROD-1200;Baskets EcoHome v1;Mode & Vêtements;Baskets;293.16;188;4.8;En stock;2025-05-21
+PROD-1201;Baskets FitGear v1;Mode & Vêtements;Baskets;370.95;111;4.9;En stock;2025-08-07
+PROD-1202;Tablette EcoHome v2;Électronique;Tablette;715.37;230;4.5;En stock;2025-12-11
+PROD-1203;Crème hydratante EcoHome v2;Beauté & Santé;Crème hydratante;533.89;95;4.9;En stock;2025-03-15
+PROD-1204;Gourde EcoHome v2;Sports & Loisirs;Gourde;173.82;82;4.3;En stock;2026-03-10
+PROD-1205;Robe FitGear v5;Mode & Vêtements;Robe;342.07;60;3.9;En stock;2025-03-18
+PROD-1206;T-shirt TechCorp v3;Mode & Vêtements;T-shirt;89.86;45;4.4;En stock;2026-03-22
+PROD-1207;Crème hydratante FitGear v4;Beauté & Santé;Crème hydratante;458.1;81;3.5;En stock;2025-06-16
+PROD-1208;Trousse de maquillage EcoHome v2;Beauté & Santé;Trousse de maquillage;222.96;117;4.3;En stock;2025-12-09
+PROD-1209;Brosse à dents électrique EcoHome v4;Beauté & Santé;Brosse à dents électrique;569.05;117;3.5;En stock;2025-07-15
+PROD-1210;Mélangeur AuraStyle v4;Maison & Cuisine;Mélangeur;287.61;203;4.4;En stock;2025-01-31
+PROD-1211;Haltères NovaLife v4;Sports & Loisirs;Haltères;322.87;58;4.8;En stock;2026-03-26
+PROD-1212;Sèche-cheveux AuraStyle v3;Beauté & Santé;Sèche-cheveux;649.11;29;4.7;En stock;2026-05-05
+PROD-1213;Crème hydratante TechCorp v1;Beauté & Santé;Crème hydratante;539.07;80;4.2;En stock;2025-07-08
+PROD-1214;T-shirt TechCorp v5;Mode & Vêtements;T-shirt;562.83;227;4.6;En stock;2025-01-15
+PROD-1215;Machine à café TechCorp v1;Maison & Cuisine;Machine à café;132.98;185;4.4;En stock;2026-02-25
+PROD-1216;Sac à dos EcoHome v5;Sports & Loisirs;Sac à dos;583.48;177;4.3;En stock;2026-03-14
+PROD-1217;Veste EcoHome v4;Mode & Vêtements;Veste;333.33;136;4.2;En stock;2025-05-29
+PROD-1218;T-shirt AuraStyle v3;Mode & Vêtements;T-shirt;95.67;238;3.9;En stock;2025-06-28
+PROD-1219;Brosse à dents électrique FitGear v1;Beauté & Santé;Brosse à dents électrique;59.01;136;4.0;En stock;2025-05-26
+PROD-1220;Robe AuraStyle v1;Mode & Vêtements;Robe;65.43;184;5.0;En stock;2025-09-03
+PROD-1221;Tapis de course PrimeGoods v3;Sports & Loisirs;Tapis de course;25.99;112;3.8;En stock;2025-03-02
+PROD-1222;Aspirateur EcoHome v4;Maison & Cuisine;Aspirateur;318.05;205;4.9;En stock;2026-01-12
+PROD-1223;Jean NovaLife v5;Mode & Vêtements;Jean;241.15;209;4.8;En stock;2025-03-01
+PROD-1224;Montre connectée PrimeGoods v1;Électronique;Montre connectée;481.77;52;4.2;En stock;2025-07-10
+PROD-1225;Gourde TechCorp v2;Sports & Loisirs;Gourde;399.53;67;4.3;En stock;2025-09-26
+PROD-1226;Vélo de ville FitGear v3;Sports & Loisirs;Vélo de ville;516.19;80;4.4;En stock;2025-01-27
+PROD-1227;Lampe de bureau AuraStyle v5;Maison & Cuisine;Lampe de bureau;817.66;105;4.1;En stock;2025-06-24
+PROD-1228;Gourde PrimeGoods v5;Sports & Loisirs;Gourde;196.81;115;4.8;En stock;2026-01-23
+PROD-1229;Montre connectée TechCorp v3;Électronique;Montre connectée;248.45;91;4.4;En stock;2026-03-07
+PROD-1230;Écouteurs PrimeGoods v1;Électronique;Écouteurs;782.33;170;4.9;En stock;2026-02-23
+PROD-1231;Haltères AuraStyle v4;Sports & Loisirs;Haltères;642.04;97;4.7;En stock;2026-04-18
+PROD-1232;Aspirateur EcoHome v5;Maison & Cuisine;Aspirateur;212.97;42;3.9;En stock;2025-08-10
+PROD-1233;Tapis de course TechCorp v2;Sports & Loisirs;Tapis de course;877.71;214;4.4;En stock;2026-03-18
+PROD-1234;Trousse de maquillage PrimeGoods v5;Beauté & Santé;Trousse de maquillage;280.84;126;4.3;En stock;2025-06-29
+PROD-1235;Brosse à dents électrique PrimeGoods v2;Beauté & Santé;Brosse à dents électrique;108.95;137;4.3;En stock;2025-05-26
+PROD-1236;Baskets TechCorp v4;Mode & Vêtements;Baskets;103.97;208;3.6;En stock;2025-10-19
+PROD-1237;Robe PrimeGoods v5;Mode & Vêtements;Robe;814.37;235;3.9;En stock;2026-05-14
+PROD-1238;Crème hydratante EcoHome v2;Beauté & Santé;Crème hydratante;836.93;120;4.6;En stock;2025-01-22
+PROD-1239;Veste NovaLife v1;Mode & Vêtements;Veste;581.18;207;3.7;En stock;2025-12-16
+PROD-1240;Tablette NovaLife v1;Électronique;Tablette;693.41;40;3.8;En stock;2025-05-26
+PROD-1241;Brosse à dents électrique TechCorp v1;Beauté & Santé;Brosse à dents électrique;79.31;61;3.9;En stock;2026-03-22
+PROD-1242;Baskets EcoHome v1;Mode & Vêtements;Baskets;399.99;138;3.9;En stock;2025-11-03
+PROD-1243;Tapis de course NovaLife v2;Sports & Loisirs;Tapis de course;767.88;247;3.6;En stock;2026-03-09
+PROD-1244;Jean PrimeGoods v3;Mode & Vêtements;Jean;677.04;139;3.7;En stock;2025-08-07
+PROD-1245;Parfum FitGear v4;Beauté & Santé;Parfum;365.45;101;4.8;En stock;2025-03-10
+PROD-1246;Machine à café TechCorp v3;Maison & Cuisine;Machine à café;89.49;229;4.3;En stock;2025-06-09
+PROD-1247;Mélangeur PrimeGoods v3;Maison & Cuisine;Mélangeur;603.99;133;4.6;En stock;2025-11-29
+PROD-1248;Ordinateur AuraStyle v2;Électronique;Ordinateur;720.82;244;4.2;En stock;2026-01-15
+PROD-1249;Machine à café AuraStyle v1;Maison & Cuisine;Machine à café;16.73;109;4.5;En stock;2025-11-19
+PROD-1250;Parfum EcoHome v4;Beauté & Santé;Parfum;845.18;143;5.0;En stock;2025-11-12
+PROD-1251;Écouteurs NovaLife v4;Électronique;Écouteurs;528.27;133;4.1;En stock;2025-10-22
+PROD-1252;Machine à café TechCorp v4;Maison & Cuisine;Machine à café;466.3;238;4.6;En stock;2026-04-07
+PROD-1253;Mélangeur NovaLife v1;Maison & Cuisine;Mélangeur;510.58;166;3.5;En stock;2026-02-24
+PROD-1254;Sèche-cheveux AuraStyle v2;Beauté & Santé;Sèche-cheveux;242.63;66;4.2;En stock;2025-04-15
+PROD-1255;Ordinateur AuraStyle v3;Électronique;Ordinateur;508.94;114;4.6;En stock;2025-07-31
+PROD-1256;Haltères PrimeGoods v5;Sports & Loisirs;Haltères;112.45;101;5.0;En stock;2025-03-09
+PROD-1257;Lampe de bureau TechCorp v3;Maison & Cuisine;Lampe de bureau;593.64;38;4.5;En stock;2025-01-15
+PROD-1258;Smartphone EcoHome v3;Électronique;Smartphone;616.54;166;3.9;En stock;2026-02-01
+PROD-1259;Poêle EcoHome v3;Maison & Cuisine;Poêle;262.73;215;4.5;En stock;2025-07-04
+PROD-1260;Sèche-cheveux NovaLife v2;Beauté & Santé;Sèche-cheveux;214.2;34;4.9;En stock;2025-09-15
+PROD-1261;Vélo de ville PrimeGoods v1;Sports & Loisirs;Vélo de ville;594.75;189;4.0;En stock;2025-08-01
+PROD-1262;Veste EcoHome v1;Mode & Vêtements;Veste;261.12;82;3.8;En stock;2025-11-01
+PROD-1263;Poêle EcoHome v4;Maison & Cuisine;Poêle;468.63;95;3.8;En stock;2025-09-09
+PROD-1264;Robe NovaLife v2;Mode & Vêtements;Robe;16.24;51;4.8;En stock;2026-01-12
+PROD-1265;Écouteurs EcoHome v4;Électronique;Écouteurs;600.41;19;4.8;En stock;2025-01-22
+PROD-1266;Brosse à dents électrique EcoHome v1;Beauté & Santé;Brosse à dents électrique;355.71;180;3.7;En stock;2025-07-25
+PROD-1267;Lampe de bureau EcoHome v5;Maison & Cuisine;Lampe de bureau;619.87;155;3.8;En stock;2025-10-31
+PROD-1268;Sac à dos EcoHome v1;Sports & Loisirs;Sac à dos;333.71;100;4.2;En stock;2025-11-10
+PROD-1269;Sac à dos EcoHome v3;Sports & Loisirs;Sac à dos;46.12;34;4.0;En stock;2026-04-22
+PROD-1270;Montre connectée FitGear v4;Électronique;Montre connectée;635.91;125;4.4;En stock;2025-03-29
+PROD-1271;Lampe de bureau AuraStyle v3;Maison & Cuisine;Lampe de bureau;115.2;245;4.7;En stock;2025-04-30
+PROD-1272;Aspirateur TechCorp v1;Maison & Cuisine;Aspirateur;212.0;84;4.7;En stock;2025-06-11
+PROD-1273;Haltères AuraStyle v2;Sports & Loisirs;Haltères;865.89;239;4.5;En stock;2025-11-07
+PROD-1274;Montre connectée AuraStyle v2;Électronique;Montre connectée;870.06;156;4.3;En stock;2025-06-08
+PROD-1275;Jean NovaLife v2;Mode & Vêtements;Jean;297.41;111;4.1;En stock;2025-08-14
+PROD-1276;Poêle NovaLife v5;Maison & Cuisine;Poêle;251.33;82;3.6;En stock;2025-07-25
+PROD-1277;Crème hydratante PrimeGoods v1;Beauté & Santé;Crème hydratante;230.53;17;5.0;En stock;2025-03-03
+PROD-1278;Crème hydratante PrimeGoods v1;Beauté & Santé;Crème hydratante;692.75;188;4.6;En stock;2025-05-05
+PROD-1279;Gourde EcoHome v2;Sports & Loisirs;Gourde;292.84;213;4.9;En stock;2026-04-19
+PROD-1280;Brosse à dents électrique AuraStyle v5;Beauté & Santé;Brosse à dents électrique;463.86;185;4.8;En stock;2025-12-19
+PROD-1281;Robe TechCorp v4;Mode & Vêtements;Robe;468.36;247;4.3;En stock;2025-04-22
+PROD-1282;Jean NovaLife v5;Mode & Vêtements;Jean;586.21;223;4.6;En stock;2026-05-16
+PROD-1283;Smartphone TechCorp v2;Électronique;Smartphone;240.69;71;4.2;En stock;2025-07-28
+PROD-1284;Ordinateur TechCorp v5;Électronique;Ordinateur;437.01;103;4.7;En stock;2025-11-26
+PROD-1285;Trousse de maquillage EcoHome v1;Beauté & Santé;Trousse de maquillage;421.55;93;3.8;En stock;2025-01-28
+PROD-1286;Parfum FitGear v5;Beauté & Santé;Parfum;691.68;23;4.1;En stock;2025-05-26
+PROD-1287;Montre connectée FitGear v1;Électronique;Montre connectée;854.47;228;4.6;En stock;2026-02-04
+PROD-1288;Jean AuraStyle v3;Mode & Vêtements;Jean;205.76;34;4.4;En stock;2025-11-05
+PROD-1289;Brosse à dents électrique EcoHome v1;Beauté & Santé;Brosse à dents électrique;98.58;245;4.7;En stock;2025-03-17
+PROD-1290;Lampe de bureau NovaLife v2;Maison & Cuisine;Lampe de bureau;785.94;208;4.7;En stock;2025-05-15
+PROD-1291;Trousse de maquillage EcoHome v3;Beauté & Santé;Trousse de maquillage;508.3;149;4.8;En stock;2025-04-24
+PROD-1292;Haltères EcoHome v5;Sports & Loisirs;Haltères;78.47;69;4.6;En stock;2026-01-28
+PROD-1293;Jean PrimeGoods v1;Mode & Vêtements;Jean;656.47;41;3.7;En stock;2026-03-02
+PROD-1294;Sac à dos EcoHome v4;Sports & Loisirs;Sac à dos;17.5;32;4.8;En stock;2026-02-02
+PROD-1295;T-shirt FitGear v5;Mode & Vêtements;T-shirt;231.28;23;4.5;En stock;2026-04-22
+PROD-1296;Jean PrimeGoods v4;Mode & Vêtements;Jean;177.12;13;3.7;Stock faible;2025-07-31
+PROD-1297;Brosse à dents électrique FitGear v3;Beauté & Santé;Brosse à dents électrique;641.32;124;3.9;En stock;2025-10-01
+PROD-1298;Trousse de maquillage EcoHome v5;Beauté & Santé;Trousse de maquillage;410.34;147;3.8;En stock;2025-05-15
+PROD-1299;Montre connectée PrimeGoods v4;Électronique;Montre connectée;148.38;130;3.9;En stock;2026-02-28
+PROD-1300;T-shirt AuraStyle v3;Mode & Vêtements;T-shirt;813.54;74;4.3;En stock;2025-10-07
+PROD-1301;Smartphone TechCorp v4;Électronique;Smartphone;100.99;176;4.8;En stock;2025-02-10
+PROD-1302;Ordinateur FitGear v1;Électronique;Ordinateur;851.65;50;4.6;En stock;2025-03-25
+PROD-1303;Aspirateur AuraStyle v3;Maison & Cuisine;Aspirateur;42.09;120;3.8;En stock;2025-05-23
+PROD-1304;Mélangeur AuraStyle v2;Maison & Cuisine;Mélangeur;460.92;17;4.2;En stock;2026-05-07
+PROD-1305;Ordinateur EcoHome v5;Électronique;Ordinateur;594.62;37;3.8;En stock;2025-08-12
+PROD-1306;Gourde TechCorp v3;Sports & Loisirs;Gourde;268.64;122;3.9;En stock;2025-04-23
+PROD-1307;Montre connectée TechCorp v4;Électronique;Montre connectée;449.37;50;4.2;En stock;2025-02-17
+PROD-1308;Ordinateur TechCorp v2;Électronique;Ordinateur;528.69;190;3.7;En stock;2025-08-16
+PROD-1309;Trousse de maquillage AuraStyle v5;Beauté & Santé;Trousse de maquillage;422.27;246;3.8;En stock;2025-11-09
+PROD-1310;Jean TechCorp v5;Mode & Vêtements;Jean;619.03;222;4.1;En stock;2025-12-05
+PROD-1311;Haltères EcoHome v4;Sports & Loisirs;Haltères;690.73;232;3.8;En stock;2025-09-14
+PROD-1312;Veste AuraStyle v1;Mode & Vêtements;Veste;272.58;83;4.6;En stock;2026-02-06
+PROD-1313;Ordinateur AuraStyle v4;Électronique;Ordinateur;306.16;179;3.8;En stock;2025-05-16
+PROD-1314;T-shirt EcoHome v3;Mode & Vêtements;T-shirt;228.79;102;4.8;En stock;2025-03-19
+PROD-1315;Lampe de bureau PrimeGoods v3;Maison & Cuisine;Lampe de bureau;268.67;59;4.8;En stock;2025-01-23
+PROD-1316;Écouteurs TechCorp v4;Électronique;Écouteurs;501.19;171;4.2;En stock;2026-03-08
+PROD-1317;Gourde FitGear v4;Sports & Loisirs;Gourde;88.51;142;4.7;En stock;2025-03-08
+PROD-1318;Robe EcoHome v5;Mode & Vêtements;Robe;708.98;110;4.1;En stock;2025-08-25
+PROD-1319;Haltères FitGear v1;Sports & Loisirs;Haltères;636.16;38;4.5;En stock;2025-05-15
+PROD-1320;Gourde FitGear v4;Sports & Loisirs;Gourde;604.65;221;4.8;En stock;2025-05-04
+PROD-1321;Jean EcoHome v4;Mode & Vêtements;Jean;458.13;93;4.5;En stock;2025-11-02
+PROD-1322;Haltères NovaLife v4;Sports & Loisirs;Haltères;678.99;102;4.0;En stock;2025-08-27
+PROD-1323;Ordinateur NovaLife v2;Électronique;Ordinateur;248.09;95;5.0;En stock;2025-02-13
+PROD-1324;Mélangeur TechCorp v3;Maison & Cuisine;Mélangeur;658.94;6;4.0;Stock faible;2025-11-13
+PROD-1325;Machine à café AuraStyle v3;Maison & Cuisine;Machine à café;440.68;249;4.4;En stock;2026-01-25
+PROD-1326;Parfum NovaLife v2;Beauté & Santé;Parfum;18.65;211;4.8;En stock;2026-02-10
+PROD-1327;Montre connectée TechCorp v2;Électronique;Montre connectée;692.72;128;3.6;En stock;2025-08-04
+PROD-1328;Robe FitGear v2;Mode & Vêtements;Robe;34.95;11;3.8;Stock faible;2025-07-13
+PROD-1329;Poêle NovaLife v4;Maison & Cuisine;Poêle;67.26;247;3.8;En stock;2025-11-04
+PROD-1330;Tablette AuraStyle v1;Électronique;Tablette;634.57;105;4.9;En stock;2026-02-07
+PROD-1331;Haltères NovaLife v2;Sports & Loisirs;Haltères;321.72;109;4.1;En stock;2025-02-14
+PROD-1332;Mélangeur PrimeGoods v1;Maison & Cuisine;Mélangeur;260.39;237;3.7;En stock;2025-12-02
+PROD-1333;T-shirt TechCorp v4;Mode & Vêtements;T-shirt;258.2;189;4.1;En stock;2026-04-13
+PROD-1334;Mélangeur PrimeGoods v4;Maison & Cuisine;Mélangeur;653.66;163;4.1;En stock;2025-10-21
+PROD-1335;Aspirateur TechCorp v5;Maison & Cuisine;Aspirateur;131.21;23;4.4;En stock;2025-05-04
+PROD-1336;Robe FitGear v4;Mode & Vêtements;Robe;404.33;110;4.3;En stock;2026-05-01
+PROD-1337;Aspirateur AuraStyle v2;Maison & Cuisine;Aspirateur;860.79;175;3.8;En stock;2025-12-25
+PROD-1338;Crème hydratante PrimeGoods v1;Beauté & Santé;Crème hydratante;668.82;142;3.5;En stock;2025-04-22
+PROD-1339;T-shirt AuraStyle v1;Mode & Vêtements;T-shirt;270.71;48;4.9;En stock;2025-09-12
+PROD-1340;Baskets NovaLife v4;Mode & Vêtements;Baskets;480.86;70;4.7;En stock;2025-11-07
+PROD-1341;Robe PrimeGoods v3;Mode & Vêtements;Robe;364.09;11;3.9;Stock faible;2025-02-27
+PROD-1342;Baskets AuraStyle v4;Mode & Vêtements;Baskets;37.94;87;4.4;En stock;2025-09-01
+PROD-1343;Sèche-cheveux AuraStyle v4;Beauté & Santé;Sèche-cheveux;227.48;150;5.0;En stock;2025-10-21
+PROD-1344;Veste NovaLife v2;Mode & Vêtements;Veste;254.73;124;4.1;En stock;2025-01-27
+PROD-1345;Jean TechCorp v2;Mode & Vêtements;Jean;782.25;197;4.2;En stock;2025-02-28
+PROD-1346;Tablette AuraStyle v4;Électronique;Tablette;821.34;28;4.8;En stock;2025-05-15
+PROD-1347;Sèche-cheveux FitGear v1;Beauté & Santé;Sèche-cheveux;628.15;196;3.9;En stock;2025-09-14
+PROD-1348;Machine à café FitGear v1;Maison & Cuisine;Machine à café;857.38;247;4.9;En stock;2025-10-19
+PROD-1349;Trousse de maquillage PrimeGoods v5;Beauté & Santé;Trousse de maquillage;118.68;47;4.7;En stock;2025-04-30
+PROD-1350;Ordinateur NovaLife v3;Électronique;Ordinateur;602.44;120;4.7;En stock;2025-07-14
+PROD-1351;Haltères TechCorp v5;Sports & Loisirs;Haltères;752.14;83;4.9;En stock;2025-06-26
+PROD-1352;Mélangeur PrimeGoods v1;Maison & Cuisine;Mélangeur;41.92;30;3.8;En stock;2025-12-07
+PROD-1353;Haltères EcoHome v4;Sports & Loisirs;Haltères;666.19;239;4.2;En stock;2026-05-02
+PROD-1354;Trousse de maquillage NovaLife v1;Beauté & Santé;Trousse de maquillage;546.71;85;3.7;En stock;2025-05-28
+PROD-1355;Haltères TechCorp v2;Sports & Loisirs;Haltères;383.24;210;3.8;En stock;2026-03-06
+PROD-1356;Parfum TechCorp v5;Beauté & Santé;Parfum;596.03;202;3.7;En stock;2025-03-16
+PROD-1357;Gourde FitGear v5;Sports & Loisirs;Gourde;407.87;147;4.0;En stock;2026-01-31
+PROD-1358;Mélangeur PrimeGoods v5;Maison & Cuisine;Mélangeur;367.34;122;4.8;En stock;2025-10-22
+PROD-1359;Écouteurs FitGear v1;Électronique;Écouteurs;865.1;21;4.4;En stock;2026-04-06
+PROD-1360;Veste TechCorp v1;Mode & Vêtements;Veste;849.65;220;3.9;En stock;2026-04-20
+PROD-1361;Brosse à dents électrique EcoHome v2;Beauté & Santé;Brosse à dents électrique;119.88;33;4.0;En stock;2026-01-22
+PROD-1362;Baskets FitGear v5;Mode & Vêtements;Baskets;161.58;32;3.9;En stock;2026-02-23
+PROD-1363;Parfum TechCorp v5;Beauté & Santé;Parfum;54.04;116;4.4;En stock;2025-09-20
+PROD-1364;Ordinateur FitGear v3;Électronique;Ordinateur;713.15;103;3.8;En stock;2025-05-29
+PROD-1365;Aspirateur EcoHome v4;Maison & Cuisine;Aspirateur;16.34;126;3.9;En stock;2026-01-05
+PROD-1366;Mélangeur NovaLife v3;Maison & Cuisine;Mélangeur;814.03;217;4.0;En stock;2025-10-31
+PROD-1367;Aspirateur TechCorp v1;Maison & Cuisine;Aspirateur;37.48;205;4.5;En stock;2025-12-20
+PROD-1368;Gourde TechCorp v2;Sports & Loisirs;Gourde;597.77;242;3.6;En stock;2025-06-20
+PROD-1369;Montre connectée FitGear v4;Électronique;Montre connectée;163.59;112;4.9;En stock;2025-07-10
+PROD-1370;Ordinateur TechCorp v2;Électronique;Ordinateur;157.52;31;4.1;En stock;2025-04-16
+PROD-1371;Lampe de bureau EcoHome v2;Maison & Cuisine;Lampe de bureau;214.54;54;4.5;En stock;2026-03-03
+PROD-1372;Parfum EcoHome v1;Beauté & Santé;Parfum;843.6;151;4.4;En stock;2025-03-14
+PROD-1373;Trousse de maquillage AuraStyle v2;Beauté & Santé;Trousse de maquillage;828.25;74;4.7;En stock;2025-02-26
+PROD-1374;Trousse de maquillage EcoHome v4;Beauté & Santé;Trousse de maquillage;746.7;177;3.6;En stock;2025-08-16
+PROD-1375;Baskets NovaLife v2;Mode & Vêtements;Baskets;639.56;210;3.8;En stock;2026-05-15
+PROD-1376;Robe FitGear v1;Mode & Vêtements;Robe;584.47;87;3.6;En stock;2025-09-11
+PROD-1377;Crème hydratante EcoHome v1;Beauté & Santé;Crème hydratante;103.38;109;4.2;En stock;2025-11-25
+PROD-1378;Machine à café TechCorp v2;Maison & Cuisine;Machine à café;156.91;214;4.1;En stock;2026-04-18
+PROD-1379;Brosse à dents électrique TechCorp v5;Beauté & Santé;Brosse à dents électrique;665.75;47;4.6;En stock;2026-03-06
+PROD-1380;Baskets FitGear v2;Mode & Vêtements;Baskets;641.44;27;4.9;En stock;2026-05-16
+PROD-1381;Poêle AuraStyle v3;Maison & Cuisine;Poêle;110.41;53;4.7;En stock;2025-04-18
+PROD-1382;Trousse de maquillage PrimeGoods v2;Beauté & Santé;Trousse de maquillage;328.92;40;3.7;En stock;2025-01-01
+PROD-1383;Sèche-cheveux NovaLife v5;Beauté & Santé;Sèche-cheveux;84.15;70;4.2;En stock;2025-11-12
+PROD-1384;Jean NovaLife v1;Mode & Vêtements;Jean;198.07;43;3.5;En stock;2025-03-10
+PROD-1385;T-shirt PrimeGoods v3;Mode & Vêtements;T-shirt;625.95;166;3.7;En stock;2025-09-11
+PROD-1386;Ordinateur EcoHome v2;Électronique;Ordinateur;125.16;92;3.7;En stock;2025-02-13
+PROD-1387;Tablette NovaLife v1;Électronique;Tablette;759.06;86;4.1;En stock;2025-07-08
+PROD-1388;Trousse de maquillage NovaLife v4;Beauté & Santé;Trousse de maquillage;267.77;162;3.7;En stock;2025-02-28
+PROD-1389;Gourde TechCorp v2;Sports & Loisirs;Gourde;488.84;79;4.1;En stock;2025-09-29
+PROD-1390;Écouteurs FitGear v2;Électronique;Écouteurs;534.9;19;4.9;En stock;2026-03-15
+PROD-1391;Poêle NovaLife v5;Maison & Cuisine;Poêle;550.24;74;3.5;En stock;2025-06-07
+PROD-1392;Ordinateur AuraStyle v1;Électronique;Ordinateur;224.53;154;4.8;En stock;2026-01-05
+PROD-1393;Lampe de bureau PrimeGoods v3;Maison & Cuisine;Lampe de bureau;427.89;191;4.7;En stock;2026-01-02
+PROD-1394;Aspirateur AuraStyle v1;Maison & Cuisine;Aspirateur;665.38;92;4.2;En stock;2025-12-06
+PROD-1395;Haltères TechCorp v3;Sports & Loisirs;Haltères;326.27;192;3.6;En stock;2025-11-26
+PROD-1396;Crème hydratante AuraStyle v2;Beauté & Santé;Crème hydratante;531.27;199;4.1;En stock;2026-04-19
+PROD-1397;Aspirateur TechCorp v1;Maison & Cuisine;Aspirateur;231.16;71;4.2;En stock;2026-04-01
+PROD-1398;Ordinateur FitGear v4;Électronique;Ordinateur;424.57;24;4.4;En stock;2025-02-19
+PROD-1399;Sac à dos FitGear v2;Sports & Loisirs;Sac à dos;480.12;167;3.5;En stock;2026-04-05
+PROD-1400;Lampe de bureau AuraStyle v1;Maison & Cuisine;Lampe de bureau;196.33;33;4.8;En stock;2025-02-09
+PROD-1401;Tapis de course AuraStyle v4;Sports & Loisirs;Tapis de course;652.16;73;4.9;En stock;2025-03-10
+PROD-1402;Aspirateur FitGear v2;Maison & Cuisine;Aspirateur;609.44;24;3.8;En stock;2025-12-15
+PROD-1403;Vélo de ville TechCorp v5;Sports & Loisirs;Vélo de ville;342.12;26;3.8;En stock;2025-11-23
+PROD-1404;Tapis de course NovaLife v1;Sports & Loisirs;Tapis de course;77.69;100;4.9;En stock;2025-10-18
+PROD-1405;Écouteurs EcoHome v4;Électronique;Écouteurs;85.19;70;4.9;En stock;2025-02-24
+PROD-1406;Mélangeur TechCorp v1;Maison & Cuisine;Mélangeur;152.03;29;4.3;En stock;2025-09-21
+PROD-1407;Tablette FitGear v4;Électronique;Tablette;630.66;153;4.3;En stock;2025-04-22
+PROD-1408;Écouteurs NovaLife v1;Électronique;Écouteurs;179.08;130;4.9;En stock;2026-05-12
+PROD-1409;Robe EcoHome v4;Mode & Vêtements;Robe;239.7;185;3.9;En stock;2026-04-22
+PROD-1410;Sac à dos NovaLife v3;Sports & Loisirs;Sac à dos;583.6;240;4.7;En stock;2026-05-14
+PROD-1411;Brosse à dents électrique EcoHome v2;Beauté & Santé;Brosse à dents électrique;267.92;44;4.9;En stock;2025-01-05
+PROD-1412;Jean PrimeGoods v3;Mode & Vêtements;Jean;866.04;12;4.3;Stock faible;2025-10-12
+PROD-1413;Haltères EcoHome v4;Sports & Loisirs;Haltères;147.63;36;3.7;En stock;2025-09-13
+PROD-1414;Poêle EcoHome v1;Maison & Cuisine;Poêle;223.62;27;4.5;En stock;2025-11-24
+PROD-1415;Mélangeur EcoHome v5;Maison & Cuisine;Mélangeur;165.99;242;3.6;En stock;2025-07-03
+PROD-1416;Brosse à dents électrique TechCorp v2;Beauté & Santé;Brosse à dents électrique;287.34;209;3.5;En stock;2025-01-31
+PROD-1417;Lampe de bureau EcoHome v3;Maison & Cuisine;Lampe de bureau;595.92;68;3.6;En stock;2025-10-14
+PROD-1418;Lampe de bureau NovaLife v2;Maison & Cuisine;Lampe de bureau;271.5;145;3.6;En stock;2025-09-19
+PROD-1419;Tablette TechCorp v4;Électronique;Tablette;752.34;48;5.0;En stock;2025-05-05
+PROD-1420;Tablette FitGear v3;Électronique;Tablette;244.22;72;3.9;En stock;2025-05-27
+PROD-1421;Robe PrimeGoods v4;Mode & Vêtements;Robe;686.62;89;4.7;En stock;2025-11-25
+PROD-1422;Tapis de course EcoHome v2;Sports & Loisirs;Tapis de course;775.24;111;4.4;En stock;2025-11-10
+PROD-1423;Vélo de ville PrimeGoods v5;Sports & Loisirs;Vélo de ville;137.09;182;4.2;En stock;2025-03-20
+PROD-1424;Crème hydratante PrimeGoods v2;Beauté & Santé;Crème hydratante;693.64;31;4.5;En stock;2025-12-08
+PROD-1425;Aspirateur TechCorp v3;Maison & Cuisine;Aspirateur;825.26;63;3.7;En stock;2025-12-30
+PROD-1426;Robe EcoHome v1;Mode & Vêtements;Robe;88.46;176;4.1;En stock;2025-01-02
+PROD-1427;Robe EcoHome v4;Mode & Vêtements;Robe;322.87;48;4.2;En stock;2026-03-10
+PROD-1428;Tapis de course NovaLife v1;Sports & Loisirs;Tapis de course;28.09;197;4.0;En stock;2026-03-30
+PROD-1429;Vélo de ville TechCorp v1;Sports & Loisirs;Vélo de ville;696.55;116;4.6;En stock;2025-02-03
+PROD-1430;Poêle NovaLife v1;Maison & Cuisine;Poêle;594.54;48;3.6;En stock;2025-04-22
+PROD-1431;Trousse de maquillage TechCorp v3;Beauté & Santé;Trousse de maquillage;386.95;62;4.3;En stock;2025-05-22
+PROD-1432;Sèche-cheveux AuraStyle v4;Beauté & Santé;Sèche-cheveux;696.98;174;4.6;En stock;2025-11-02
+PROD-1433;Veste EcoHome v4;Mode & Vêtements;Veste;610.39;72;3.6;En stock;2026-01-01
+PROD-1434;Tablette EcoHome v4;Électronique;Tablette;455.25;160;4.3;En stock;2025-07-14
+PROD-1435;Smartphone TechCorp v5;Électronique;Smartphone;385.62;62;4.8;En stock;2025-11-26
+PROD-1436;Veste AuraStyle v5;Mode & Vêtements;Veste;446.16;176;3.8;En stock;2025-02-04
+PROD-1437;Montre connectée FitGear v3;Électronique;Montre connectée;473.07;158;4.7;En stock;2026-04-10
+PROD-1438;Tapis de course TechCorp v1;Sports & Loisirs;Tapis de course;137.57;60;3.8;En stock;2026-02-08
+PROD-1439;Haltères NovaLife v4;Sports & Loisirs;Haltères;871.83;183;3.6;En stock;2025-02-27
+PROD-1440;Robe TechCorp v2;Mode & Vêtements;Robe;146.06;12;4.6;Stock faible;2025-09-30
+PROD-1441;Lampe de bureau EcoHome v5;Maison & Cuisine;Lampe de bureau;285.88;17;4.3;En stock;2025-12-13
+PROD-1442;Sac à dos PrimeGoods v2;Sports & Loisirs;Sac à dos;422.4;22;4.4;En stock;2025-04-16
+PROD-1443;Jean TechCorp v2;Mode & Vêtements;Jean;784.24;237;4.2;En stock;2025-06-04
+PROD-1444;Poêle EcoHome v5;Maison & Cuisine;Poêle;208.49;102;4.3;En stock;2025-06-06
+PROD-1445;Aspirateur NovaLife v1;Maison & Cuisine;Aspirateur;601.08;130;4.6;En stock;2025-09-01
+PROD-1446;Montre connectée AuraStyle v2;Électronique;Montre connectée;501.98;171;3.9;En stock;2025-07-06
+PROD-1447;Ordinateur AuraStyle v5;Électronique;Ordinateur;658.38;150;4.7;En stock;2025-10-06
+PROD-1448;Baskets NovaLife v1;Mode & Vêtements;Baskets;718.41;177;3.7;En stock;2025-01-08
+PROD-1449;Veste NovaLife v3;Mode & Vêtements;Veste;518.29;108;4.1;En stock;2025-12-13
+PROD-1450;Sac à dos FitGear v2;Sports & Loisirs;Sac à dos;285.64;102;5.0;En stock;2026-05-04
+PROD-1451;Aspirateur AuraStyle v2;Maison & Cuisine;Aspirateur;32.45;204;3.5;En stock;2025-08-21
+PROD-1452;Aspirateur EcoHome v1;Maison & Cuisine;Aspirateur;646.13;40;4.3;En stock;2025-05-09
+PROD-1453;Sèche-cheveux TechCorp v5;Beauté & Santé;Sèche-cheveux;610.15;166;4.3;En stock;2026-02-09
+PROD-1454;Écouteurs NovaLife v1;Électronique;Écouteurs;39.11;197;4.7;En stock;2025-09-29
+PROD-1455;Écouteurs FitGear v5;Électronique;Écouteurs;626.93;200;4.9;En stock;2025-09-27
+PROD-1456;Vélo de ville EcoHome v4;Sports & Loisirs;Vélo de ville;566.14;121;4.5;En stock;2025-01-28
+PROD-1457;Tablette FitGear v2;Électronique;Tablette;162.99;180;3.7;En stock;2025-07-13
+PROD-1458;Sèche-cheveux EcoHome v2;Beauté & Santé;Sèche-cheveux;260.18;217;4.3;En stock;2025-11-13
+PROD-1459;Sac à dos AuraStyle v5;Sports & Loisirs;Sac à dos;65.79;71;3.6;En stock;2025-09-10
+PROD-1460;Baskets NovaLife v2;Mode & Vêtements;Baskets;292.27;54;3.7;En stock;2025-09-20
+PROD-1461;Jean AuraStyle v5;Mode & Vêtements;Jean;227.7;130;3.9;En stock;2025-05-29
+PROD-1462;Machine à café AuraStyle v4;Maison & Cuisine;Machine à café;579.55;245;4.4;En stock;2025-03-15
+PROD-1463;Sèche-cheveux EcoHome v4;Beauté & Santé;Sèche-cheveux;374.25;144;3.6;En stock;2026-01-03
+PROD-1464;Crème hydratante FitGear v2;Beauté & Santé;Crème hydratante;276.34;68;3.9;En stock;2025-04-15
+PROD-1465;Poêle NovaLife v4;Maison & Cuisine;Poêle;876.79;204;4.7;En stock;2025-07-07
+PROD-1466;Poêle PrimeGoods v5;Maison & Cuisine;Poêle;325.29;176;4.5;En stock;2026-03-10
+PROD-1467;Ordinateur EcoHome v5;Électronique;Ordinateur;247.64;27;4.9;En stock;2025-04-14
+PROD-1468;Mélangeur EcoHome v4;Maison & Cuisine;Mélangeur;519.24;215;3.7;En stock;2025-10-10
+PROD-1469;Parfum TechCorp v3;Beauté & Santé;Parfum;771.28;202;4.0;En stock;2026-02-10
+PROD-1470;Sèche-cheveux AuraStyle v1;Beauté & Santé;Sèche-cheveux;600.41;221;4.9;En stock;2026-02-08
+PROD-1471;Tapis de course NovaLife v1;Sports & Loisirs;Tapis de course;264.13;41;4.8;En stock;2025-08-17
+PROD-1472;T-shirt AuraStyle v4;Mode & Vêtements;T-shirt;530.24;46;4.3;En stock;2026-03-25
+PROD-1473;Mélangeur TechCorp v4;Maison & Cuisine;Mélangeur;418.07;63;4.4;En stock;2025-02-18
+PROD-1474;Jean PrimeGoods v1;Mode & Vêtements;Jean;262.03;106;4.7;En stock;2025-03-30
+PROD-1475;Lampe de bureau TechCorp v3;Maison & Cuisine;Lampe de bureau;44.23;41;3.8;En stock;2025-10-28
+PROD-1476;Jean TechCorp v2;Mode & Vêtements;Jean;553.62;238;3.7;En stock;2025-07-27
+PROD-1477;Sèche-cheveux PrimeGoods v2;Beauté & Santé;Sèche-cheveux;401.08;197;3.7;En stock;2025-07-03
+PROD-1478;Lampe de bureau TechCorp v4;Maison & Cuisine;Lampe de bureau;72.71;181;4.3;En stock;2026-03-23
+PROD-1479;Lampe de bureau TechCorp v2;Maison & Cuisine;Lampe de bureau;696.54;51;5.0;En stock;2026-04-07
+PROD-1480;Ordinateur AuraStyle v2;Électronique;Ordinateur;183.26;70;4.1;En stock;2025-10-15
+PROD-1481;Ordinateur FitGear v2;Électronique;Ordinateur;385.22;110;5.0;En stock;2025-12-20
+PROD-1482;Mélangeur EcoHome v2;Maison & Cuisine;Mélangeur;819.71;183;4.9;En stock;2026-04-02
+PROD-1483;Mélangeur EcoHome v3;Maison & Cuisine;Mélangeur;817.55;115;4.4;En stock;2025-03-17
+PROD-1484;Smartphone FitGear v4;Électronique;Smartphone;313.66;13;4.9;Stock faible;2026-04-28
+PROD-1485;Crème hydratante EcoHome v4;Beauté & Santé;Crème hydratante;361.41;87;3.7;En stock;2025-04-26
+PROD-1486;Lampe de bureau TechCorp v5;Maison & Cuisine;Lampe de bureau;634.84;175;4.7;En stock;2026-04-08
+PROD-1487;Ordinateur AuraStyle v4;Électronique;Ordinateur;563.57;67;3.9;En stock;2026-04-17
+PROD-1488;Smartphone PrimeGoods v5;Électronique;Smartphone;632.42;157;4.7;En stock;2025-11-20
+PROD-1489;Mélangeur PrimeGoods v4;Maison & Cuisine;Mélangeur;752.3;123;4.8;En stock;2025-03-18
+PROD-1490;Mélangeur PrimeGoods v1;Maison & Cuisine;Mélangeur;609.24;6;4.0;Stock faible;2025-04-17
+PROD-1491;Veste PrimeGoods v5;Mode & Vêtements;Veste;504.8;234;4.1;En stock;2026-04-21
+PROD-1492;T-shirt EcoHome v5;Mode & Vêtements;T-shirt;290.27;50;4.4;En stock;2025-04-24
+PROD-1493;Poêle NovaLife v5;Maison & Cuisine;Poêle;894.09;234;4.6;En stock;2025-08-22
+PROD-1494;Sac à dos EcoHome v5;Sports & Loisirs;Sac à dos;152.44;92;4.0;En stock;2025-08-04
+PROD-1495;Sac à dos TechCorp v5;Sports & Loisirs;Sac à dos;312.46;243;4.8;En stock;2025-03-01
+PROD-1496;Trousse de maquillage PrimeGoods v4;Beauté & Santé;Trousse de maquillage;774.95;200;3.6;En stock;2025-08-28
+PROD-1497;Jean PrimeGoods v2;Mode & Vêtements;Jean;221.34;213;4.4;En stock;2025-12-12
+PROD-1498;Vélo de ville AuraStyle v4;Sports & Loisirs;Vélo de ville;789.08;212;4.8;En stock;2025-10-16
+PROD-1499;Machine à café EcoHome v5;Maison & Cuisine;Machine à café;52.72;205;4.4;En stock;2025-07-06
+PROD-1500;Écouteurs EcoHome v1;Électronique;Écouteurs;88.4;82;3.6;En stock;2025-06-09

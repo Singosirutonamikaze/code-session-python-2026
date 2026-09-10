@@ -1,0 +1,19 @@
+ID_Produit : Identifiant unique de l'article.
+
+Nom_Produit : Nom de l'article combiné avec une marque fictive.
+
+Categorie : Secteur du produit (Électronique, Mode, Maison, etc.).
+
+Prix_Unitaire_ECO : Le prix de vente en eco.
+
+Quantite_Stock : Le niveau de stock actuel (demandé).
+
+Statut_Disponibilite : L'état associé au stock (En stock, Faible, Rupture).
+
+Score_Avis : Évaluation des clients sur 5.
+
+Date_Ajout : La date d'intégration au catalogue (demandée).
+
+Poids_kg : Le poids de l'article en kilogrammes.
+
+Code_Barres : Un code standard simulé pour la gestion logistique.
