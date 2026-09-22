@@ -1,3 +1,9 @@
+---------------------------------------------------------------------------------
+
+PRODUITS
+
+---------------------------------------------------------------------------------
+
 ID_Produit : Identifiant unique de l'article.
 
 Nom_Produit : Nom de l'article combiné avec une marque fictive.
@@ -17,3 +23,27 @@ Date_Ajout : La date d'intégration au catalogue (demandée).
 Poids_kg : Le poids de l'article en kilogrammes.
 
 Code_Barres : Un code standard simulé pour la gestion logistique.
+
+---------------------------------------------------------------------------------
+
+LOGS
+
+---------------------------------------------------------------------------------
+
+ID_Evenement : Identifiant unique du log (EVT-XXXXXX).
+
+Horodatage : Date et heure précise de l'événement.
+
+IP_Source : L'adresse IP d'origine (IP publiques suspectes pour les cyberattaques, IP privées pour l'activité normale).
+
+IP_Destination : L'adresse IP du serveur cible interne.
+
+Utilisateur : Le compte ciblé ou l'auteur de l'action (root, admin, ou utilisateurs standards).
+
+Type_Evenement : La nature de l'événement (Brute Force Attempt, SQL Injection, XSS Attack, Port Scan, DDoS Traffic Spike, etc.).
+
+Severite : Le niveau de menace (Low, Medium, High, Critical).
+
+Statut : Le résultat de l'action (Blocked, Mitigated, Success, Failed).
+
+Description : Un résumé contextuel textuel de ce qui a déclenché l'alerte.
