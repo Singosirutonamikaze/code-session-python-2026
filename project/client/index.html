@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Visualisation du catalogue produits</title>
+    <link rel="stylesheet" href="styles/style.css" />
+  </head>
+  <body>
+    <header class="barre-navigation">
+      <div class="marque">
+        <h1>Visualisation du catalogue produits</h1>
+        <p>Clique sur un graphique pour l'afficher</p>
+      </div>
+
+      <nav class="groupe-boutons" aria-label="Types de graphiques">
+        <button type="button" data-route="boxplot">Boxplot</button>
+        <button type="button" data-route="scatterplot">Scatterplot</button>
+        <button type="button" data-route="histplot">Histogramme</button>
+        <button type="button" data-route="countplot">Countplot</button>
+        <button type="button" data-route="heatmap">Heatmap</button>
+        <button type="button" data-route="violinplot">Violinplot</button>
+      </nav>
+    </header>
+
+    <main>
+      <div id="description" class="zone-description">Sélectionne un graphique pour commencer.</div>
+      <section id="graphique" class="zone-graphique" aria-live="polite">
+        <p class="etat-message">Chargement du graphique...</p>
+      </section>
+    </main>
+
+    <script src="scripts/script.js"></script>
+  </body>
+</html>
